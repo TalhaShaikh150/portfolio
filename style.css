@@ -646,6 +646,7 @@ section {
   border: var(--border);
   transform-style: preserve-3d;
   perspective: 1000px;
+  cursor: pointer;
 }
 
 .skill-card:hover {
